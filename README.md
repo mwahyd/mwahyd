@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Maishan</h1>
-<h3 align="center">Web developer in the making.</h3>
+<h3 align="center">Software developer in the making.</h3>
 
 - 🌱 I’m currently working on **completing the foundation course from The Odin Project.**
 

@@ -1,14 +1,13 @@
 <h3 align="left">Welcome!</h3>
 
-
-<pre>
-  <span class="pl-k">const</span> <span class="pl-s1">about</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
-  <span class="pl-c1">name</span>: <span class="pl-s">"maishan"</span> 
-  <span class="pl-c1">path</span>: <span class="pl-s">"self-taught"</span> 
-  <span class="pl-c1">curriculum</span>: <span class="pl-s">"The Odin Project"</span>
-  <span class="pl-c1">branch</span>: <span class="pl-s">"Full Stack JavaScriptt"</span>
-  <span class="pl-kos">}</span>
-<pre>
+```javascript
+const about = {
+name: "maishan",
+path: "self-taught",
+curriculum: "the odin project",
+branch: "full stack javascript"
+}
+```
 
 <h4 align="left">Languages and Tools:</h4>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4cc82f9f181f1ad34aeb4c5e228d391f38e12245a2c8f41c25a6a9775e57fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/4cc82f9f181f1ad34aeb4c5e228d391f38e12245a2c8f41c25a6a9775e57fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-333?style=flat-square&amp;logo=javascript" style="max-width: 100%;"></a>

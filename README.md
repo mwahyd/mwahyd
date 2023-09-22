@@ -2,7 +2,7 @@
 <br>
 
 <h4 align="left">About Me</h4>
-<p>Embarked on the self taugh path to become a software engineer at **The Odin Project: Full Stack JavaScript** 🌱</p>
+<p>Embarked on the self taugh path to become a software engineer at <strong>The Odin Project: Full Stack JavaScript</strong> 🌱</p>
 <br>
 
 <h4 align="left">Languages and Tools:</h4>

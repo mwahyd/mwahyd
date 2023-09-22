@@ -1,11 +1,20 @@
 <h3 align="left">Welcome!</h3>
 <br>
 
+<pre>
+  <span class="pl-k">const</span><span class="pl-s1">about</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
+  <span class="pl-c1">name</span>: <span class="pl-s">"maishan"</span> 
+  <span class="pl-c1">path</span>: <span class="pl-s">"self-taught"</span> 
+  <span class="pl-c1">curriculum</span>: <span class="pl-s">"The Odin Project"</span>
+  <span class="pl-c1">branch</span>: <span class="pl-s">"Full Stack JavaScriptt"</span>
+  <span class="pl-kos">}</span>
+<pre>
+  
+
+
 <h4 align="left">About Me</h4>
 <p>Embarked on the self taugh path to become a software engineer at <strong>The Odin Project: Full Stack JavaScript</strong> 🌱</p>
-const info = {
-  name: "maishan",
-}
+
 <br>
 
 <h4 align="left">Languages and Tools:</h4>

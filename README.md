@@ -2,10 +2,10 @@
 
 ```javascript
 const about = {
-name: "maishan",
-path: "self-taught",
-curriculum: "the odin project",
-branch: "full stack javascript"
+  name: "maishan",
+  path: "self-taught",
+  curriculum: "the odin project",
+  branch: "full stack javascript"
 }
 ```
 

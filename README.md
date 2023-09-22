@@ -1,5 +1,5 @@
 <h3 align="left">Welcome!</h1>
-<h4 align="left">An aspiring software developer</h3>
+<br>
 
 <h4 align="left">About Me</h3>
 <p>Embarked on the self taugh path to become a software engineer at **The Odin Project: Full Stack JavaScript** 🌱</p>

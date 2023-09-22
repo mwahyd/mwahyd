@@ -3,6 +3,7 @@
 
 <h4 align="left">About Me</h3>
 <p>Embarked on the self taugh path to become a software engineer at **The Odin Project: Full Stack JavaScript** 🌱</p>
+**completing The Odin Project's Full Stack JavaScript course.**
 <br>
 
 <h3 align="left">Languages and Tools:</h3>

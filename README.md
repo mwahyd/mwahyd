@@ -9,7 +9,7 @@ const about = {
   branch: "full stack javascript"
 }
 ```
-
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 <h3 align="left">Languages and Tools:</h3>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4cc82f9f181f1ad34aeb4c5e228d391f38e12245a2c8f41c25a6a9775e57fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/4cc82f9f181f1ad34aeb4c5e228d391f38e12245a2c8f41c25a6a9775e57fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-333?style=flat-square&amp;logo=javascript" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b9f4ef8614059822c393175f53ab3fc6e35c93a72d4ad58c19148d6d5c4f078f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3333333f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d313061306463"><img src="https://camo.githubusercontent.com/b9f4ef8614059822c393175f53ab3fc6e35c93a72d4ad58c19148d6d5c4f078f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3333333f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d313061306463" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-333?style=flat-square&amp;logo=css3&amp;logoColor=10a0dc" style="max-width: 100%;"></a>
